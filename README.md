@@ -2,7 +2,7 @@
 
 Este repositorio contiene un proyecto simple en Python que implementa un gestor de tareas basado en consola. El proyecto fue desarrollado como parte de un curso de programación de IBM para poner en práctica conceptos fundamentales de la programación orientada a objetos.
 
-Descripción del Proyecto
+## Descripción del Proyecto
 
 El gestor de tareas permite a los usuarios gestionar una lista de tareas mediante las siguientes funcionalidades:
 
@@ -19,25 +19,18 @@ El programa utiliza clases para organizar el código:
 
 El menú interactivo facilita la interacción del usuario con el programa.
 
-Requisitos
+### Requisitos
 Para ejecutar el proyecto necesitas:
 Python 3.6 o superior.
 
-Cómo Usar
+### Cómo Usar
 Clona este repositorio:
 
 git clone https://github.com/DavidAlonsoMontes/IBM-SkillsBuild-Python.git
 
 
-
-python nombre_del_archivo.py
+python tareas.py
 Usa las opciones del menú para gestionar tus tareas.
-
-Funcionalidades
-Añadir Tarea: Proporciona una descripción de la tarea y agrégala a la lista.
-Listar Tareas: Muestra las tareas pendientes y completadas.
-Actualizar Estado: Cambia el estado de una tarea específica a completada.
-Eliminar Tarea: Permite eliminar una tarea seleccionada.
 
 Créditos
 Este proyecto fue creado por David Alonso como parte del aprendizaje en el curso de programación en Python de IBM.
