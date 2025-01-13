@@ -23,13 +23,8 @@ Python 3.6 o superior.
 Cómo Usar
 Clona este repositorio:
 
-git clone https://github.com/davidalonsomontes/nombre-del-repositorio.git
-Navega al directorio del proyecto:
+git clone https://github.com/DavidAlonsoMontes/IBM-SkillsBuild-Python.git
 
-
-Copiar código
-cd nombre-del-repositorio
-Ejecuta el programa:
 
 
 python nombre_del_archivo.py
