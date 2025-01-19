@@ -1,4 +1,4 @@
-# Gestor de Tareas en Python 1
+# Gestor de Tareas en Python
 
 Este repositorio contiene un proyecto simple en Python que implementa un gestor de tareas basado en consola. El proyecto fue desarrollado como parte de un curso de programación de IBM para poner en práctica conceptos fundamentales de la programación orientada a objetos.
 
